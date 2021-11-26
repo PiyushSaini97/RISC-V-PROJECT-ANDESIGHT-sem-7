@@ -1,5 +1,10 @@
 # RISC-V-PROJECT-ANDESIGHT
 
+Made by
+Darshil Modha
+Tithi Shah
+Piyush Saini
+
 A term project about exploration of RISC-V based cores/processors and demonstration of a fundamental software-oriented case study with the help of AndeSight IDE 
 RISC V is one of the most recent area of research and development in regards to an ISA. 
 As it is open source, it has become very popular among students and industries alike to develop various applications. 
