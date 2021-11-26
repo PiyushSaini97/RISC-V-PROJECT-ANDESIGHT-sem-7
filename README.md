@@ -14,3 +14,7 @@ The team provided us with the processor (NX25F) specific documentation through w
 In order to program the peripherals, we looked through the available configuration and header files for the processor. 
 We wrote some basic programs with a few modifications that are presented throughout the report albeit with some simulator specific limitations.
 
+With RISC V being in its early stages of development, the associated IDEs do not provide as many features as their competitive counterparts. 
+Due to this the novice developers are unable to unlock the full potential of the architecture. 
+Nevertheless, the IDE supports basic functionalities that allows the developers to get a gist of the architecture. 
+RISC V has a promising future because of high accessibility, flexibility, and power & area efficiency but has a long way to go before it can compete with the likes of x86, ARM architectures.
