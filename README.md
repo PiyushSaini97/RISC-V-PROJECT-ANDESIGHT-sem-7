@@ -1,8 +1,8 @@
 # RISC-V-PROJECT-ANDESIGHT
 
 Made by
-Darshil Modha
-Tithi Shah
+Darshil Modha,
+Tithi Shah and
 Piyush Saini
 
 A term project about exploration of RISC-V based cores/processors and demonstration of a fundamental software-oriented case study with the help of AndeSight IDE 
